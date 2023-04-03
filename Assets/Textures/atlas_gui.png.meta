@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 7c503fbd5d2f5634db6e66ef934b8abc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bottom2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1768
+        width: 973
+        height: 212
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 379.5, y: 3}
+        - {x: 342.5, y: 111}
+        - {x: 330.5, y: -12}
+        - {x: 279.5, y: 95}
+        - {x: 227.5, y: 0}
+        - {x: 184.5, y: 83}
+        - {x: 153.5, y: -21}
+        - {x: 100.5, y: 111}
+        - {x: 96.5, y: 111}
+        - {x: 57.5, y: 20}
+        - {x: 21.5, y: 105}
+        - {x: -16.5, y: 29}
+        - {x: -158.5, y: 62}
+        - {x: -210.5, y: -6}
+        - {x: -299.5, y: 76}
+        - {x: -370.5, y: 22}
+        - {x: -397.5, y: 59}
+        - {x: -486.5, y: 38}
+        - {x: -486.5, y: -103}
+        - {x: 486.5, y: -103}
+        - {x: 486.5, y: 25}
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: daec62688b82d1c4f8fb20275c56a730
+      internalID: -221990833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottom1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1534
+        width: 973
+        height: 223
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 329.5, y: -23.5}
+        - {x: 267.5, y: 51.5}
+        - {x: 150.5, y: -17.5}
+        - {x: 91.5, y: 111.5}
+        - {x: 63.5, y: 45.5}
+        - {x: 13.5, y: 79.5}
+        - {x: -9.5, y: -23.5}
+        - {x: -61.5, y: 39.5}
+        - {x: -207.5, y: -19.5}
+        - {x: -316.5, y: 65.5}
+        - {x: -363.5, y: -5.5}
+        - {x: -486.5, y: 33.5}
+        - {x: -486.5, y: -111.5}
+        - {x: 486.5, y: -111.5}
+        - {x: 486.5, y: -14.5}
+        - {x: 365.5, y: -4.5}
+        - {x: 341.5, y: 111.5}
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: 6ff8f7ce7a95ae449a3c4d750c69c13a
+      internalID: -301157124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_2
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1346
+        width: 302
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e5c3fce885d34f957236604813210
+      internalID: 2033479303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstacle1.1
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1089
+        width: 257
+        height: 547
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24.5, y: 272.5}
+        - {x: -71.5, y: -162.5}
+        - {x: -128.5, y: -273.5}
+        - {x: 127.5, y: -273.5}
+        - {x: 84.5, y: -213.5}
+        - {x: 75.02844, y: -106.65234}
+        - {x: 38.5, y: 9.5}
+        - {x: 50.5, y: 144.5}
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: d1dee70a2aec4da48aa766b141b2bb73
+      internalID: -1613892897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstacle2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978
+        width: 533
+        height: 553
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 219.5, y: -167.5}
+        - {x: 246.5, y: -65.5}
+        - {x: 165.5, y: -25.5}
+        - {x: 156.5, y: 126.5}
+        - {x: 114.5, y: 172.5}
+        - {x: 81.5, y: 246.5}
+        - {x: -12.5, y: 222.5}
+        - {x: -44.5, y: 274.5}
+        - {x: -95.5, y: 222.5}
+        - {x: -144.5, y: 259.5}
+        - {x: -157.5, y: 226.5}
+        - {x: -158.5, y: 121.5}
+        - {x: -205.5, y: 137.5}
+        - {x: -238.5, y: 46.5}
+        - {x: -210.5, y: -63.5}
+        - {x: -241.5, y: -113.5}
+        - {x: -234.5, y: -210.5}
+        - {x: -263.5, y: -275.5}
+        - {x: 264.5, y: -275.5}
+        - {x: 266.5, y: -219.5}
+      tessellationDetail: 0.1
+      bones: []
+      spriteID: 73f5338946d9fd9479d1fcb6bc77b1bd
+      internalID: 137146415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1316
+        width: 196
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c985dee860a445b8b6bccefe589c1
+      internalID: 1227049380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1318
+        width: 181
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061367495615fcb4c88df140edabb13f
+      internalID: -2140069577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent background
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1386
+        width: 85
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1cd919eaac52541bcafc7657f5e202
+      internalID: 1979494818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_8
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1316
+        width: 144
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d32f2202c26e4688c62f1a4537409
+      internalID: 457952051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play_button
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 980
+        width: 440
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab298f69d7a9b248af95e09222ea53f
+      internalID: -1913285742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_10
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1162
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616237723b1a3964fbb72b6721c26bd4
+      internalID: 903146348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back2
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1162
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d165310f9fe5eb41a3afef3e79b776a
+      internalID: 1247953151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back3
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1189
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 9, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a5d6945c3ff9448e5c28a46575ebb
+      internalID: 1740928982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1186
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 24, z: 21, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce552d12ed7b4c4f91b5d0d0203b81d
+      internalID: 690280574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_platform
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 1024
+        height: 401
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ab7f1afd693141835794ac9d25046
+      internalID: -2042806480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ranking_button
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 540
+        width: 524
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55bc88173c842c49a05f32221a01965
+      internalID: 607131147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstacle1.2
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 540
+        width: 257
+        height: 547
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 49.5, y: 147.5}
+        - {x: 22.5, y: 273.5}
+        - {x: -58.5, y: -119.5}
+        - {x: -128.5, y: -271.5}
+        - {x: -128.5, y: -273.5}
+        - {x: 127.5, y: -273.5}
+        - {x: 86.5, y: -203.5}
+        - {x: 40.5, y: 16.5}
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: 438dc6b2ba68c9b43a91e00f113389f2
+      internalID: 1126362225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat1
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 676
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15.5, y: 32}
+        - {x: 16.5, y: 16}
+        - {x: -22.5, y: 40}
+        - {x: -23.5, y: -16}
+        - {x: -45.5, y: -42}
+        - {x: 33.5, y: -42}
+        - {x: 39.5, y: -32}
+        - {x: 38.5, y: 7}
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: 7c3c4bdeb2260864796f9b11bdd81f56
+      internalID: 170363744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 576
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf0c158e80b394a8b6ece37fc39688
+      internalID: 682609145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat2
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 567
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 38.5, y: 24}
+        - {x: 24.5, y: 38}
+        - {x: -45.5, y: -43}
+        - {x: 37.5, y: -25}
+      tessellationDetail: 0.02
+      bones: []
+      spriteID: 429c6c32bd62a9540b2b58934c7f43b6
+      internalID: 1188433939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: obstacle3
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 635
+        height: 538
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 219.5, y: 246}
+        - {x: 163.5, y: 131}
+        - {x: 61.5, y: 267}
+        - {x: -19.5, y: 175}
+        - {x: -73.5, y: 269}
+        - {x: -145.5, y: 117}
+        - {x: -201.5, y: 243}
+        - {x: -281.5, y: 160}
+        - {x: -307.5, y: -24}
+        - {x: -316.5, y: -269}
+        - {x: 309.5, y: -269}
+        - {x: 290.5, y: -213}
+        - {x: 317.5, y: -139}
+        - {x: 300.5, y: 148}
+      tessellationDetail: 0.04
+      bones: []
+      spriteID: 7b2f063b86ce07d489bd3a6b12cea72c
+      internalID: -1911236238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shadow
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 352
+        width: 316
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4550083334d3d645b609a5d7961ceee
+      internalID: -753373953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 332
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3405ec071acf6488ddf3732a52a0f3
+      internalID: 1036526108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back1
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1198
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 12, z: 13, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd2ae6152f50a34f9358f6c7674415a
+      internalID: -172093016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back0
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1184
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 20, z: 20, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e2deecb1f468e4d97980426c458e2e
+      internalID: 515984676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_26
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 11, z: 7, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfd9a91b914fd45a5522106d98c8ab
+      internalID: 222449729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_27
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1161
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 7, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8aa7fd63c40943b0520fd1d38f642
+      internalID: -1370895983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_gui 2_11
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1192
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 15, z: 14, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0597447c324f4ca6662cf99fbe4a2
+      internalID: -1453200383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8b75566e2f04fe44d97f23ff5bf68d8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      back1: -172093016
+      shadow: -753373953
+      atlas_gui 2_6: -2140069577
+      bat2: 1188433939
+      obstacle1.2: 1126362225
+      transparent background: 1979494818
+      rock_platform: -2042806480
+      bottom1: -301157124
+      atlas_gui 2_23: 766911035
+      atlas_gui 2_22: 1036526108
+      background: 682609145
+      play_button: -1913285742
+      atlas_gui 2_5: 1227049380
+      atlas_gui 2_26: 222449729
+      atlas_gui 2_27: -1370895983
+      back2: 1247953151
+      back4: 690280574
+      atlas_gui 2_11: -1453200383
+      back0: 515984676
+      atlas_gui 2_2: 2033479303
+      obstacle1.1: -1613892897
+      atlas_gui 2_8: 457952051
+      obstacle2: 137146415
+      back3: 1740928982
+      obstacle3: -1911236238
+      atlas_gui 2_10: 903146348
+      ranking_button: 607131147
+      bat1: 170363744
+      bottom2: -221990833
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
